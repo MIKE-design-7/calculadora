@@ -1,5 +1,5 @@
 def calcular_promedio():
-    print("Calcula el promedio de una serie de números")
+    print("Calcula el promedio de una serie de númerosss")
     numeros = []
     print("Ingresa números (ingresa -1 para terminar):")
     
